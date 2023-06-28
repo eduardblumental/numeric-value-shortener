@@ -1,0 +1,22 @@
+{
+  "name": "zoomcharts-qa-task",
+  "version": "1.0.0",
+  "description": "Zoomcharts QA Homework Assignment",
+  "main": "converter.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardblumental/zoomcharts-qa-task.git"
+  },
+  "author": "Eduards Blumentals",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardblumental/zoomcharts-qa-task/issues"
+  },
+  "homepage": "https://github.com/eduardblumental/zoomcharts-qa-task#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
