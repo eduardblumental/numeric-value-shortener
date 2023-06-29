@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This JavaScript project includes a module `valueShortener.test.js` which contains a utility function `shortening(value, desiredValueUnit)` for shortening numeric values to their equivalent representation in different units such as "K" (thousands), "M" (millions), "bn" (billions), and "T" (trillions).
+This JavaScript project includes a module `valueShortener.js` which contains a utility function `shortening(value, desiredValueUnit)` for shortening numeric values to their equivalent representation in different units such as "K" (thousands), "M" (millions), "bn" (billions), and "T" (trillions).
 
 The function takes two arguments: `value` and `desiredValueUnit`. The `value` is the numeric input you want to shorten, and the `desiredValueUnit` is the unit you want your input to be converted to. The function returns an object with the shortened value and the unit.
 
