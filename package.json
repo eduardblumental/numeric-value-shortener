@@ -1,21 +1,21 @@
 {
-  "name": "zoomcharts-qa-task",
+  "name": "numeric-value-shortener",
   "version": "1.0.0",
-  "description": "Zoomcharts QA Homework Assignment",
-  "main": "converter.js",
+  "description": "Numeric Value Shortener",
+  "main": "valueShortener.js",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eduardblumental/zoomcharts-qa-task.git"
+    "url": "git+https://github.com/eduardblumental/numeric-value-shortener.git"
   },
   "author": "Eduards Blumentals",
-  "license": "ISC",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/eduardblumental/zoomcharts-qa-task/issues"
+    "url": "https://github.com/eduardblumental/numeric-value-shortener/issues"
   },
-  "homepage": "https://github.com/eduardblumental/zoomcharts-qa-task#readme",
+  "homepage": "https://github.com/eduardblumental/numeric-value-shortener#readme",
   "devDependencies": {
     "jest": "^29.5.0"
   }
